@@ -1,4 +1,4 @@
-module github.com/SCKelemen/modules
+module github.com/SCKelemen/authn
 
 go 1.13
 

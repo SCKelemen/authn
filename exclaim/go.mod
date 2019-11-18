@@ -1,3 +1,3 @@
-module github.com/SCKelemen/modules/exclaim
+module github.com/SCKelemen/authn/exclaim
 
 go 1.13
