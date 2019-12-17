@@ -10,6 +10,7 @@ const (
 	BCRYPT
 	SCRYPT
 	PBKDF2
+	ARGON2
 	_endValid
 )
 
